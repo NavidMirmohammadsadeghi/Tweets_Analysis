@@ -16,10 +16,10 @@ Over 33 million words were collected categorically from all transferred tweets b
 
 - In Bound Tweets (Selected 5 Companies)
 For the initial exploratory analysis top 5 companies with the most number of found first tweets during November and December of 2017 were identified! Some companies like Apple had many mentioned tweets for their support team!
-![](/Tweet_counts.png)
+![your image](/Tweet_counts.png)
 - Sentiment Analysis
 Using some simplified text processing algorithms in Python, I scored the responses of customers to the tweets wrote by customer support teams of the above mentioned companies:
-![](/sentiment_score.png)
+![your image](/sentiment_score.png)
 
 # Project Goal
 
