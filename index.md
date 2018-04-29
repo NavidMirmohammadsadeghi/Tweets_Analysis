@@ -12,6 +12,7 @@ Over 33 million words were collected categorically from all transferred tweets b
 <img src="https://github.com/navidms/Tweets_Analysis/blob/master/WordCloud.PNG" alt="">
 <img src="https://github.com/navidms/Tweets_Analysis/blob/master/Figure_1.jpeg" alt="">
 <img src="/images/WordCloud.PNG" alt="">
+![your image](/Tweets_Analysis/blob/master/WordCloud.PNG)
 ### Intresting Graphs
 
 - In Bound Tweets (Selected 5 Companies)
