@@ -1,5 +1,4 @@
 theme: jekyll-theme-leap-day
-baseurl: "/Tweets_Analysis"
 url: "https://navidms.github.io"
-# Header 1
-## Header 2
+baseurl: "/Tweets_Analysis"
+
