@@ -20,7 +20,7 @@ For the initial exploratory analysis top 5 companies with the most number of fou
 - Sentiment Analysis
 Using some simplified text processing algorithms in Python, I scored the responses of customers to the tweets wrote by customer support teams of the above mentioned companies:
 ![your image](/Sentiment_Score.png)
-It is obvious that airlines like Southwest and Delta did farely good jobs in responding to their customers issues. Although the number of tweets asking for customer support help were higher for comapnies like Apple and Amazon, ones can easily see that those companies couldn't address their customers' issues very well! These sorts of analysis can help companies improving their performance, and developing better systems for monitoring their customers' issues.
+It is obvious that airlines like Southwest and Delta did farely good jobs in responding to their customers issues. Even though the number of tweets asking for customer support help were higher for comapnies like Apple and Amazon, ones can easily see that those companies couldn't address their customers' issues very well! These sorts of analysis can help companies improving their performance, and developing better systems for monitoring their customers' issues.
 
 # Project Goal
 
