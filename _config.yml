@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-slate
 title: "Customer Support Tweets Analysis"
 url: "https://navidms.github.io"
 baseurl: "/Tweets_Analysis"
