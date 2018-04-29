@@ -1,4 +1,4 @@
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-minimal
 baseurl: "/Tweets_Analysis"
 url: "https://navidms.github.io"
 # Header 1
