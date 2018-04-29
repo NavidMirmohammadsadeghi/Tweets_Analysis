@@ -19,4 +19,10 @@ For the initial exploratory analysis top 5 companies with the most number of fou
 ![](/Tweet_counts.png)
 - Sentiment Analysis
 Using some simplified text processing algorithms in Python, I scored the responses of customers to the tweets wrote by customer support teams of the above mentioned companies:
+![](/sentiment_score.png)
 
+# Project Goal
+
+The goal for this project is to analyze massive amount of tweets from customers who asked for companies support service, and evaluate the response time and the quality of big companies' customer support services teams.
+By training the evaluation system, eventually we can utilize automation in categorizing the customers' issues, and responding to them with proper helpful suggestions.
+Therefore, not only each company can have a better understaning of its own performance in satisfying customers, but also they can improve the way that they help customers to fix their issues.
