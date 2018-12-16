@@ -8,9 +8,6 @@ Based on recation time and the quality of answers from the service providers, cu
 Over 33 million words were collected categorically from all transferred tweets between customers and companies customer support services! Some times customers could've solved their issues and were thakful, however many times they weren't that much pleased with the support system responses!
 ## Word Cloud
 ![](https://github.com/navidms/Tweets_Analysis/blob/master/WordCloud.PNG)
-<img src="https://github.com/navidms/Tweets_Analysis/blob/master/WordCloud.PNG" alt="">
-<img src="https://github.com/navidms/Tweets_Analysis/blob/master/Figure_1.jpeg" alt="">
-<img src="/images/WordCloud.PNG" alt="">
 ### Intresting Graphs
 
 - In Bound Tweets (Selected 5 Companies)
